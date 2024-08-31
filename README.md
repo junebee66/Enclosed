@@ -2,7 +2,7 @@
 ![image is not loaded, please try again](https://github.com/junebee66/Enclosed/blob/main/enclosed%20gif.gif) </br>
 </br>
 Enclosed | 3D Decentralized Story | 2021 </br>
-This Twine is an interactive & decentralized storiy made with the open-source tool Twine. </br>
+This is an interactive & decentralized story experience made with the open-source tool Twine. </br>
 "Something must be wrong... Datas are changing... I think we are stuck in an enclosed data loop", said the hunter. </br>
 During the Data War in 2200, a team of data hunters from were sent back to year 2020 to activate all senses of non-living objects and soon discovered that they were stuck in an/enclosed mix data realm...
 </br>
